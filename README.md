@@ -1,2 +1,2 @@
 # EECS553
-EECS553 Machine Learning
+EECS553 Machine Learning @ Umich
